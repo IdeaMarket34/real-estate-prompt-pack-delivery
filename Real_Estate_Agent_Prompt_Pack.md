@@ -1,12 +1,14 @@
 # Real Estate Agent AI Prompt Pack
 **50+ Ready-to-Use Prompts for Listings, Clients, Marketing & More**
 
-Version 1.0 | Instant Download
+Version 1.1 | Instant Download
 
 ---
 
 ## How to Use This Pack
 Copy any prompt into ChatGPT, Claude, Grok, or your preferred AI. Replace the [BRACKETS] with your specific details. Adjust tone or length as needed. These are starting points—tweak them for your brand voice.
+
+**Fair Housing note:** Always review generated copy for fair housing compliance. Avoid language about protected classes, "perfect for families," school quality as a selling point for specific demographics, or neighborhood demographics. Describe the property, not the people.
 
 ---
 
